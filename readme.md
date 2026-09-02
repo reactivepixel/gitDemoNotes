@@ -15,7 +15,6 @@ git status
 git merge <branchName>
 
 git tag -a '<semVer>' -m '<msg>'
-
 git remote add <origin> <url>
 git pull origin <branchName>
 git push origin <branchName>
